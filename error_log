@@ -1,0 +1,1 @@
+[17-Nov-2015 10:38:25 Etc/GMT] PHP Fatal error:  Class 'PHPExcel_Shared_Font' not found in /home/dsdsiuym/public_html/viajes/config/excel.php on line 174
